@@ -1,0 +1,9 @@
+Log message of : De-Activator User [on 2021-09-21  15:45:36]
+The user with login of: "root" and display name of: "root" de-activated this plugin
+
+Log message of : De-Activator User [on 2021-09-21  16:52:34]
+The user with login of: "root" and display name of: "root" de-activated this plugin
+
+Log message of : De-Activator User [on 2021-09-22  10:36:44]
+The user with login of: "root" and display name of: "root" de-activated this plugin
+

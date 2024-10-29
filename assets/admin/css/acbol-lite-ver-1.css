@@ -1,0 +1,104 @@
+/*Admin CSS Version 1*/
+.addon-panel-tl {
+    margin: 26px 16px;
+    background: white;
+    padding: 2px 12px 12px 12px;
+    width: 1150px;
+    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 15%);
+    border-radius: 8px;
+}
+
+.welcome-panel {
+    margin:16px;
+    background: white;
+    padding: 12px 12px 12px 6px;
+    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 15%);
+    border-radius: 8px;
+    border: none;
+}
+.welcome-panel h2 {
+    font-weight: bold;
+}
+
+.addon-panel-tl h2 {
+    font-size: 1.5rem;
+    padding-left: 6px;
+}
+
+.addon-panel-tl-column {
+    display: flex;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.addon-btn-disabled {
+    opacity: 0.4;
+}
+
+.addon-panel-item-title {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.addon-panel-item {
+    width: 275px;
+    margin: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.addon-panel-btn {
+    width: 100%;
+    margin: 12px;
+}
+
+.addon-panel-btn button {
+    font-weight: bold;
+    width: 100%;
+    background: #15FFD0;
+    color: #2D0186;
+    border: none;
+    border-radius: 10px;
+    padding: 6px;
+    transition: ease-in-out .2s;
+}
+
+.addon-panel-btn .addon-btn:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    color: #15FFD0;
+    background: #2D0186;
+}
+
+.addon-panel-item-description p {
+    margin: 0px;
+}
+
+.acbol-connection-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 396px;
+}
+
+.options_group_variation label {
+    padding: 5px;
+}
+
+#AC_Woocommerce_To_Bol_Lite_section1 .form-table td {
+    display: flex;
+    align-items: center;
+}
+
+#AC_Woocommerce_To_Bol_Lite_section1 .woocommerce-help-tip {
+    margin: 0px 10px;
+}
+
+.notice-acbol {
+    border-left-color:#0014FF;
+}
+
+#acbol_bol_status {
+    width: 110px;
+}

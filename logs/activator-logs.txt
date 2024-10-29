@@ -1,0 +1,18 @@
+Log message of : Activator User [on 2021-09-21  15:45:41]
+The user with login of: "root" and display name of: "root" activated this plugin
+
+Log message of : Activator Last Log [on 2021-09-21  15:45:41]
+Sample to test logger class when plugin is activated
+
+Log message of : Activator User [on 2021-09-21  16:52:37]
+The user with login of: "root" and display name of: "root" activated this plugin
+
+Log message of : Activator Last Log [on 2021-09-21  16:52:37]
+Sample to test logger class when plugin is activated
+
+Log message of : Activator User [on 2021-09-27  12:28:55]
+The user with login of: "root" and display name of: "root" activated this plugin
+
+Log message of : Activator Last Log [on 2021-09-27  12:28:55]
+Sample to test logger class when plugin is activated
+
